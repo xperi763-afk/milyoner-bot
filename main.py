@@ -33,7 +33,7 @@ def score_check():
 
 if __name__ == "__main__":
     # Render'da botun başladığını anlamak için gruba mesaj atıyoruz
-    bot.send_message(GROUP_ID, "✅ Milyonerler Skor Sistemi Sistem aktif, bol şans")
+    bot.send_message(GROUP_ID, "✅ Milyonerler Skor Sistemi Sistem aktif, bol şans⚡")
     while True:
         score_check()
         time.sleep(60)
