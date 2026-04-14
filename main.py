@@ -5,7 +5,7 @@ import telebot
 # --- AYARLAR ---
 BOT_TOKEN = "8350998442:AAEYGk3aDegQojlxS6Zi7wmVhCARrsZK1ns"
 API_KEY = "70a5a59689msh144b836941f5d43p17449ajsn586c190a6bb7"
-GROUP_ID = "-1002446755498" 
+GROUP_ID = -1002446755498
 
 bot = telebot.TeleBot(BOT_TOKEN)
 sent_scores = {}
